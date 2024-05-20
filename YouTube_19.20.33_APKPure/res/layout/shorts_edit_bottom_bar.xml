@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:id="@id/shorts_edit_bottom_bar" android:background="@drawable/shorts_edit_toolbar_scrim" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="@dimen/shorts_edit_bottom_bar_container_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.flexbox.FlexboxLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:alignItems="center" app:flexDirection="row" app:flexWrap="nowrap" app:justifyContent="space_around">
+        <com.google.android.flexbox.FlexboxLayout android:id="@id/shorts_edit_timeline_button" android:background="@drawable/shorts_edit_bottom_bar_button" android:layout_width="wrap_content" android:layout_height="@dimen/shorts_edit_bottom_bar_button_height" app:alignItems="center" app:flexDirection="row" app:flexWrap="nowrap" app:justifyContent="center" app:layout_flexBasisPercent="45.000004%">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="6.0dip" android:src="@drawable/ic_shorts_editor_timeline" />
+            <TextView android:textAppearance="?ytTextAppearanceBody2b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/shorts_editor_timeline_label" android:contentDescription="@string/shorts_editor_timeline_label" />
+        </com.google.android.flexbox.FlexboxLayout>
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?ytTextAppearanceBody2b" android:gravity="center_vertical" android:id="@id/shorts_post_bottom_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/shorts_edit_bottom_bar_button_height" android:contentDescription="@string/shorts_a11y_continue_to_upload" android:textAlignment="center" app:layout_flexBasisPercent="45.000004%" />
+    </com.google.android.flexbox.FlexboxLayout>
+</FrameLayout>

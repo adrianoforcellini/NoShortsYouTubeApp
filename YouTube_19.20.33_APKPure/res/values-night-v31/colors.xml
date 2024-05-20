@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aag_widget_adjusted_color_primary">@android:color/background_cache_hint_selector_material_light</color>
+    <color name="aag_widget_background_color">@android:color/bright_foreground_inverse_holo_dark</color>
+    <color name="aag_widget_color_surface_variant">@android:color/bright_foreground_holo_dark</color>
+    <color name="aag_widget_on_background_color">@android:color/background_cache_hint_selector_material_dark</color>
+    <color name="sud_system_primary_text">@color/sud_system_neutral1_50</color>
+    <color name="sud_system_secondary_text">@color/sud_system_neutral2_200</color>
+    <color name="widget_button_borderless_icon_color">@android:color/background_cache_hint_selector_material_light</color>
+    <color name="sud_system_accent_icon_text_button">@color/sud_system_accent1_100</color>
+</resources>
