@@ -25,28 +25,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 
@@ -2917,45 +2895,6 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 1334
-    .line 1335
-    .line 1336
-    .line 1337
-    .line 1338
-    .line 1339
-    .line 1340
-    .line 1341
-    .line 1342
-    .line 1343
-    .line 1344
-    .line 1345
-    .line 1346
-    .line 1347
-    .line 1348
-    .line 1349
-    .line 1350
-    .line 1351
-    .line 1352
-    .line 1353
-    .line 1354
-    .line 1355
-    .line 1356
-    .line 1357
-    .line 1358
-    .line 1359
-    .line 1360
-    .line 1361
-    .line 1362
-    .line 1363
-    .line 1364
-    .line 1365
-    .line 1366
-    .line 1367
-    .line 1368
-    .line 1369
-    .line 1370
-    .line 1371
-    .line 1372
 .end method
 
 .method public final synthetic newArray(I)[Ljava/lang/Object;
@@ -3167,18 +3106,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
 .end method

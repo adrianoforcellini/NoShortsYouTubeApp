@@ -201,9 +201,4 @@
         <item>@string/upload_network_policy_pref_value_wifi</item>
         <item>@string/upload_network_policy_pref_value_any</item>
     </string-array>
-    <array name="APKTOOL_DUMMY_6" />
-    <array name="APKTOOL_DUMMY_14" />
-    <array name="APKTOOL_DUMMY_16" />
-    <array name="APKTOOL_DUMMY_1a" />
-    <array name="APKTOOL_DUMMY_1d" />
 </resources>

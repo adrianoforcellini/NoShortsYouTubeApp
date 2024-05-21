@@ -41,18 +41,6 @@
     .line 10
     .line 11
     return-void
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
 .end method
 
 
@@ -524,11 +512,4 @@
     .line 210
     .line 211
     return-void
-    .line 212
-    .line 213
-    .line 214
-    .line 215
-    .line 216
-    .line 217
-    .line 218
 .end method

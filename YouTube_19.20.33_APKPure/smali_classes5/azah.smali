@@ -924,16 +924,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 408
-    .line 409
-    .line 410
-    .line 411
-    .line 412
-    .line 413
-    .line 414
-    .line 415
-    .line 416
-    .line 417
-    .line 418
-    .line 419
 .end method

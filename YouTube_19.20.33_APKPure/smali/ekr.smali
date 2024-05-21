@@ -22,26 +22,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -85,20 +65,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getCriticalExtensionOIDs()Ljava/util/Set;
@@ -118,20 +84,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public getEncoded()[B
@@ -151,20 +103,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getExtensionValue(Ljava/lang/String;)[B
@@ -184,25 +122,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final getIssuerDN()Ljava/security/Principal;
@@ -222,20 +141,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getIssuerUniqueID()[Z
@@ -255,20 +160,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getKeyUsage()[Z
@@ -288,20 +179,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getNonCriticalExtensionOIDs()Ljava/util/Set;
@@ -321,20 +198,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getNotAfter()Ljava/util/Date;
@@ -354,20 +217,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getNotBefore()Ljava/util/Date;
@@ -387,20 +236,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getPublicKey()Ljava/security/PublicKey;
@@ -420,20 +255,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSerialNumber()Ljava/math/BigInteger;
@@ -453,20 +274,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSigAlgName()Ljava/lang/String;
@@ -486,20 +293,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSigAlgOID()Ljava/lang/String;
@@ -519,20 +312,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSigAlgParams()[B
@@ -552,20 +331,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSignature()[B
@@ -585,20 +350,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSubjectDN()Ljava/security/Principal;
@@ -618,20 +369,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getSubjectUniqueID()[Z
@@ -651,20 +388,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getTBSCertificate()[B
@@ -684,20 +407,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final getVersion()I
@@ -717,20 +426,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final hasUnsupportedCriticalExtension()Z
@@ -750,20 +445,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final toString()Ljava/lang/String;
@@ -783,20 +464,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final verify(Ljava/security/PublicKey;)V

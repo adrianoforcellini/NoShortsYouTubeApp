@@ -108,6 +108,4 @@
     .line 49
     .line 50
     return-void
-    .line 51
-    .line 52
 .end method

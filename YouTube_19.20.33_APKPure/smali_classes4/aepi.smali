@@ -553,10 +553,4 @@
     .line 222
     .line 223
     return-void
-    .line 224
-    .line 225
-    .line 226
-    .line 227
-    .line 228
-    .line 229
 .end method

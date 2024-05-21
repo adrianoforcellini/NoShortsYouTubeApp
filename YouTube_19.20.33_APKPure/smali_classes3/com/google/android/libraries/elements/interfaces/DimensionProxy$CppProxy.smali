@@ -19,25 +19,6 @@
 
     .line 1
     return-void
-    .line 2
-    .line 3
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method private constructor <init>(J)V
@@ -146,11 +127,6 @@
     .line 15
     :cond_0
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method protected finalize()V
@@ -168,19 +144,6 @@
     .line 6
     .line 7
     return-void
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public unit()Lcom/google/android/libraries/elements/interfaces/DimensionUnit;
@@ -200,19 +163,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public value()F
@@ -232,17 +182,4 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method

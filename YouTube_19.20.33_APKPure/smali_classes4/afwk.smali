@@ -143,13 +143,6 @@
         0x3ea01a37    # 0.3127f
         0x3ea872b0    # 0.329f
     .end array-data
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
 .end method
 
 .method public constructor <init>([F)V
@@ -447,56 +440,4 @@
     .line 140
     .line 141
     return-void
-    .line 142
-    .line 143
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
 .end method

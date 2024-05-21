@@ -21,25 +21,6 @@
 
     .line 1
     return-void
-    .line 2
-    .line 3
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method private constructor <init>(J)V
@@ -114,56 +95,6 @@
     .line 34
     .line 35
     throw p1
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
 .end method
 
 .method public static native create(Lcom/google/android/libraries/elements/interfaces/ByteStoreConfig;Lcom/google/android/libraries/elements/interfaces/ExecutorRegistry;)Lcom/google/android/libraries/elements/interfaces/ByteStore;
@@ -260,42 +191,6 @@
     .line 23
     :cond_0
     return-void
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method
 
 .method public clear()V
@@ -312,20 +207,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public createTransaction()Lcom/google/android/libraries/elements/interfaces/Transaction;
@@ -345,19 +226,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public createTransactionWithContext(Lcom/google/protos/youtube/elements/TransactionContextOuterClass$TransactionContext;)Lcom/google/android/libraries/elements/interfaces/Transaction;
@@ -377,27 +245,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 .method protected finalize()V
@@ -432,11 +279,6 @@
     .line 15
     :cond_0
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public get(Ljava/lang/String;)[B
@@ -456,27 +298,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 .method public set(Ljava/lang/String;[B)V
@@ -493,59 +314,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method
 
 .method public setWithMetadata(Ljava/lang/String;[B[B)V
@@ -574,115 +342,6 @@
     .line 9
     .line 10
     return-void
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
 .end method
 
 .method public snapshot()Lcom/google/android/libraries/elements/interfaces/Snapshot;
@@ -702,19 +361,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public subscribe(Ljava/lang/String;Lcom/google/android/libraries/elements/interfaces/Observer;)Lcom/google/android/libraries/elements/interfaces/Subscription;
@@ -734,58 +380,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method
 
 .method public subscribeList(Ljava/util/ArrayList;Lcom/google/android/libraries/elements/interfaces/Observer;)Ljava/util/ArrayList;
@@ -805,58 +399,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method
 
 .method public subscribeToFaults(Lcom/google/android/libraries/elements/interfaces/FaultObserver;)Lcom/google/android/libraries/elements/interfaces/FaultSubscription;
@@ -876,27 +418,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 .method public subscribeWithContext(Ljava/lang/String;Lcom/google/android/libraries/elements/interfaces/ContextObserver;)Lcom/google/android/libraries/elements/interfaces/Subscription;
@@ -916,58 +437,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method
 
 .method public subscribeWithPriority(Ljava/lang/String;Lcom/google/android/libraries/elements/interfaces/Observer;I)Lcom/google/android/libraries/elements/interfaces/Subscription;
@@ -999,112 +468,4 @@
 
     .line 11
     return-object p1
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
 .end method

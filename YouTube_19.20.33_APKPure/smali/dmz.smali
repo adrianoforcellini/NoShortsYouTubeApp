@@ -145,12 +145,6 @@
     .line 68
     .line 69
     return-void
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 
@@ -187,12 +181,6 @@
     .line 15
     :cond_0
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final onAnimationStart()V
@@ -227,12 +215,6 @@
     .line 15
     :cond_0
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final setBackgroundColor(I)V
@@ -286,6 +268,4 @@
     .line 24
     :cond_0
     return-void
-    .line 25
-    .line 26
 .end method

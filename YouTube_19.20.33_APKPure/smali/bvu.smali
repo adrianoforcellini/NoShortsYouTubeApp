@@ -116,5 +116,4 @@
 
     .line 25
     return p0
-    .line 26
 .end method

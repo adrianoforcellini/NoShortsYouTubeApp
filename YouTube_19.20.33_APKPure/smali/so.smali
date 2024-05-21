@@ -25,26 +25,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -504,8 +484,6 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 206
-    .line 207
 .end method
 
 .method public final synthetic newArray(I)[Ljava/lang/Object;
@@ -711,10 +689,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method

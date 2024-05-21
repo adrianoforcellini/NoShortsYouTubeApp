@@ -55,10 +55,6 @@
     .line 16
     .line 17
     return-void
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public constructor <init>()V
@@ -91,11 +87,4 @@
     .line 13
     .line 14
     return-void
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method

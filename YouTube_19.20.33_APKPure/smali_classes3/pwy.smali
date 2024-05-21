@@ -109,5 +109,4 @@
     .line 19
     :goto_0
     return-object v0
-    .line 20
 .end method

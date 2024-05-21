@@ -747,10 +747,10 @@ in %1$d 秒後結束"</string>
     <string name="gallery_image_display_name_default">未命名的圖片</string>
     <string name="gallery_permission_allow_access_only_media_description">如要製作新影片，請允許存取相片</string>
     <string name="gallery_permission_allow_access_only_media_split_description">如要製作新影片，請允許存取相片和影片</string>
-    <string name="gallery_permission_open_settings_for_camera">如要錄製新影片，請前往 [設定] > [權限]<b></b>，並允許存取相機</string>
-    <string name="gallery_permission_open_settings_for_microphone_secondary">如要繼續，請前往 [設定] > [權限]<b></b>，並允許存取麥克風</string>
-    <string name="gallery_permission_open_settings_for_only_media_description">如要製作新影片，請前往 [設定] > [權限]<b></b>，並允許存取儲存空間</string>
-    <string name="gallery_permission_open_settings_for_only_media_split_description">如要製作新影片，請前往 [設定] > [權限]<b></b> 以允許存取相片和影片</string>
+    <string name="gallery_permission_open_settings_for_camera">如要錄製新影片，請前往 [設定] > [權限]<b/>，並允許存取相機</string>
+    <string name="gallery_permission_open_settings_for_microphone_secondary">如要繼續，請前往 [設定] > [權限]<b/>，並允許存取麥克風</string>
+    <string name="gallery_permission_open_settings_for_only_media_description">如要製作新影片，請前往 [設定] > [權限]<b/>，並允許存取儲存空間</string>
+    <string name="gallery_permission_open_settings_for_only_media_split_description">如要製作新影片，請前往 [設定] > [權限]<b/> 以允許存取相片和影片</string>
     <string name="gallery_permissions_missing_camera_secondary_warning">如要繼續，請允許存取相機和麥克風</string>
     <string name="gallery_permissions_missing_camera_warning">如要錄製影片，請先允許存取相機</string>
     <string name="gallery_permissions_missing_microphone_secondary_warning">如要繼續，請允許存取麥克風</string>
@@ -1045,7 +1045,7 @@ in %1$d 秒後結束"</string>
     <string name="mdx_background_playback_error_help">取得說明</string>
     <string name="mdx_background_playback_error_text">輕按以重試</string>
     <string name="mdx_background_playback_error_title">無法連接至電視 (%1$s)</string>
-    <string name="mdx_cast_settings_desc">找不到裝置？在「設定」中開啟「使用網絡資訊<b></b>」，以尋找投放裝置。</string>
+    <string name="mdx_cast_settings_desc">找不到裝置？在「設定」中開啟「使用網絡資訊<b/>」，以尋找投放裝置。</string>
     <string name="mdx_connect_navigation_command_cant_connect_get_help_button">查看說明</string>
     <string name="mdx_connect_navigation_command_cant_connect_message">無法連接至%s。</string>
     <string name="mdx_connect_navigation_command_no_devices_found_learn_more_button">瞭解詳情</string>
@@ -1132,7 +1132,7 @@ in %1$d 秒後結束"</string>
     <string name="mdx_pref_use_tv_code_enter_tv_code_header">輸入電視驗證碼</string>
     <string name="mdx_pref_use_tv_code_get_tv_code_steps">"1. 在電視裝置中開啟 YouTube 應用程式。
 2。前往「設定」。
-3。向下捲動至「透過電視代碼連結"<b></b>"」。您的電視會顯示一組藍色的電視驗證碼。
+3。向下捲動至「透過電視代碼連結"<b/>"」。您的電視會顯示一組藍色的電視驗證碼。
 4。輸入上方的代碼。"</string>
     <string name="mdx_pref_use_tv_code_get_tv_code_title">取得電視驗證碼的方法</string>
     <string name="mdx_pref_use_tv_code_learn_more">瞭解詳情</string>
@@ -1759,8 +1759,8 @@ in %1$d 秒後結束"</string>
     <string name="reel_permission_allow_access_description">如要製作新影片，請允許存取相片、相機和麥克風</string>
     <string name="reel_permission_allow_access_media_split_description">如要製作新影片，請允許存取相片、影片、相機和麥克風</string>
     <string name="reel_permission_open_settings_description">如要製作新影片，請先前往 <b>[設定] > [權限]</b>，允許存取相機、麥克風和儲存空間</string>
-    <string name="reel_permission_open_settings_location">要搜尋附近地點，請前往 [設定] > [權限]<b></b> 允許存取「位置」</string>
-    <string name="reel_permission_open_settings_media_split_description">如要製作新影片，請前往 [設定] > [權限]<b></b> 以允許存取相機、麥克風、相片和影片</string>
+    <string name="reel_permission_open_settings_location">要搜尋附近地點，請前往 [設定] > [權限]<b/> 允許存取「位置」</string>
+    <string name="reel_permission_open_settings_media_split_description">如要製作新影片，請前往 [設定] > [權限]<b/> 以允許存取相機、麥克風、相片和影片</string>
     <string name="reel_permissions_missing_location">要搜尋附近地點，請先允許存取「位置」</string>
     <string name="reel_persistent_edu_text">滑動</string>
     <string name="reel_sticker_usage_limit_description">此短片中另一個片段已加入了影片貼圖。你只能加入一幅影片貼圖。</string>
@@ -1989,13 +1989,13 @@ in %1$d 秒後結束"</string>
     <string name="shorts_green_screen_title">綠色螢幕</string>
     <string name="shorts_multi_segment_progress_bar_start_label">開始</string>
     <string name="shorts_multi_segment_progress_bar_stop_label">停止</string>
-    <string name="shorts_permission_camera_open_settings_description">開啟 [設定] > [權限] 然後允許存取相機及麥克風<b></b></string>
+    <string name="shorts_permission_camera_open_settings_description">開啟 [設定] > [權限] 然後允許存取相機及麥克風<b/></string>
     <string name="shorts_permission_camera_open_settings_title">此功能需要存取相機及麥克風</string>
-    <string name="shorts_permission_microphone_open_settings_description">開啟 [設定] > [權限] 然後允許存取麥克風<b></b></string>
+    <string name="shorts_permission_microphone_open_settings_description">開啟 [設定] > [權限] 然後允許存取麥克風<b/></string>
     <string name="shorts_permission_microphone_open_settings_title">此功能需要麥克風存取權</string>
     <string name="shorts_permission_open_settings_dialog_confirm">開啟設定</string>
     <string name="shorts_permission_open_settings_dialog_dismiss">暫時不要</string>
-    <string name="shorts_permission_storage_open_settings_description">開啟 [設定] > [權限] 然後允許存取儲存空間<b></b></string>
+    <string name="shorts_permission_storage_open_settings_description">開啟 [設定] > [權限] 然後允許存取儲存空間<b/></string>
     <string name="shorts_permission_storage_open_settings_title">此功能需要存取儲存空間</string>
     <string name="shorts_recording_tooltip_time_x">最多可錄影 %1$d 秒</string>
     <string name="shorts_scrubber_related_sound_text">相關音訊</string>

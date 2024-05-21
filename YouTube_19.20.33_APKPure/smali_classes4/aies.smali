@@ -201,12 +201,6 @@
     .line 69
     :cond_2
     return-void
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 .method public final synthetic get()Ljava/lang/Object;
@@ -234,16 +228,4 @@
     .line 9
     .line 10
     return-object v0
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method

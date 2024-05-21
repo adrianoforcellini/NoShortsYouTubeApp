@@ -32,18 +32,6 @@
     .line 9
     .line 10
     return-void
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public static final a(I)Lamcy;
@@ -97,9 +85,6 @@
 
     .line 23
     return-object p0
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public static final b(I)Lamcy;
@@ -153,7 +138,4 @@
 
     .line 23
     return-object p0
-    .line 24
-    .line 25
-    .line 26
 .end method

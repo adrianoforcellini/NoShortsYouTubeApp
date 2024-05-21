@@ -67,5 +67,4 @@
     .line 24
     .line 25
     return-void
-    .line 26
 .end method

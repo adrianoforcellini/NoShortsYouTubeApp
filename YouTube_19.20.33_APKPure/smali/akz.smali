@@ -1781,99 +1781,6 @@
     .line 924
     .line 925
     return-void
-    .line 926
-    .line 927
-    .line 928
-    .line 929
-    .line 930
-    .line 931
-    .line 932
-    .line 933
-    .line 934
-    .line 935
-    .line 936
-    .line 937
-    .line 938
-    .line 939
-    .line 940
-    .line 941
-    .line 942
-    .line 943
-    .line 944
-    .line 945
-    .line 946
-    .line 947
-    .line 948
-    .line 949
-    .line 950
-    .line 951
-    .line 952
-    .line 953
-    .line 954
-    .line 955
-    .line 956
-    .line 957
-    .line 958
-    .line 959
-    .line 960
-    .line 961
-    .line 962
-    .line 963
-    .line 964
-    .line 965
-    .line 966
-    .line 967
-    .line 968
-    .line 969
-    .line 970
-    .line 971
-    .line 972
-    .line 973
-    .line 974
-    .line 975
-    .line 976
-    .line 977
-    .line 978
-    .line 979
-    .line 980
-    .line 981
-    .line 982
-    .line 983
-    .line 984
-    .line 985
-    .line 986
-    .line 987
-    .line 988
-    .line 989
-    .line 990
-    .line 991
-    .line 992
-    .line 993
-    .line 994
-    .line 995
-    .line 996
-    .line 997
-    .line 998
-    .line 999
-    .line 1000
-    .line 1001
-    .line 1002
-    .line 1003
-    .line 1004
-    .line 1005
-    .line 1006
-    .line 1007
-    .line 1008
-    .line 1009
-    .line 1010
-    .line 1011
-    .line 1012
-    .line 1013
-    .line 1014
-    .line 1015
-    .line 1016
-    .line 1017
-    .line 1018
 .end method
 
 .method public constructor <init>(Ljava/nio/ByteOrder;Ljava/util/List;)V
@@ -1929,31 +1836,6 @@
     .line 22
     .line 23
     return-void
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 
@@ -2006,8 +1888,4 @@
     .line 21
     .line 22
     return-object p1
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method

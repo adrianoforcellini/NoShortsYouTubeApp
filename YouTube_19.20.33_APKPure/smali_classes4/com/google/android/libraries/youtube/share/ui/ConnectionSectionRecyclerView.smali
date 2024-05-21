@@ -96,6 +96,4 @@
 
     .line 24
     return p1
-    .line 25
-    .line 26
 .end method

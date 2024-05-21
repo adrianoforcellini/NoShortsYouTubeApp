@@ -49,10 +49,6 @@
     .line 16
     .line 17
     return-void
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 
@@ -110,8 +106,6 @@
     .line 23
     .line 24
     throw p1
-    .line 25
-    .line 26
 .end method
 
 .method public final b(Ljava/lang/Object;)V
@@ -160,9 +154,4 @@
     .line 20
     .line 21
     throw p1
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method

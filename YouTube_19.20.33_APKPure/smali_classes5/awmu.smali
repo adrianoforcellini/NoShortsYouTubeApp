@@ -60,7 +60,6 @@
     .line 12
     .line 13
     return-void
-    .line 14
 .end method
 
 .method private constructor <init>()V

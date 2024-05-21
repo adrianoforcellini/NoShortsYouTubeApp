@@ -35,49 +35,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 .method public static synthetic $r8$lambda$4VBaANGlpzPM1K8vaKOptx7wqr8(Landroidx/window/embedding/SplitPlaceholderRule;Landroid/content/Context;Landroid/view/WindowMetrics;)Z
@@ -93,99 +50,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method public static synthetic $r8$lambda$Gn8lX0DcZGnshx6PAnbTZdWj_cg(Landroidx/window/embedding/SplitPairRule;Landroid/util/Pair;)Z
@@ -201,49 +65,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 .method public static synthetic $r8$lambda$P2lUVVLDIR_D4LEjvtQOdreUB4U(Landroidx/window/embedding/ActivityRule;Landroid/app/Activity;)Z
@@ -259,49 +80,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 .method public static synthetic $r8$lambda$Xi5J-FhkXM4g5OZFHvsjm3iwaGI(Landroidx/window/embedding/SplitPinRule;Landroid/content/Context;Landroid/view/WindowMetrics;)Z
@@ -317,99 +95,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method public static synthetic $r8$lambda$aKGINfqikZLNqvwrrMIrImJf53g(Landroidx/window/embedding/SplitPairRule;Landroid/util/Pair;)Z
@@ -425,49 +110,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 .method public static synthetic $r8$lambda$fEB6mAk2QPqau2LETeMBhCiD85E(Landroidx/window/embedding/EmbeddingAdapter;Lbbof;Landroidx/window/extensions/embedding/SplitAttributesCalculatorParams;)Landroidx/window/extensions/embedding/SplitAttributes;
@@ -483,99 +125,6 @@
 
     .line 5
     return-object p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method public static synthetic $r8$lambda$gteoRiy2m3KhQzrxUXZx0iJk130(Landroidx/window/embedding/SplitPlaceholderRule;Landroid/app/Activity;)Z
@@ -591,49 +140,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 .method public static synthetic $r8$lambda$q62Bvpk1KglidwBWQ20zeEF7Y-k(Landroidx/window/embedding/SplitPlaceholderRule;Landroid/content/Intent;)Z
@@ -649,49 +155,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method
 
 .method public static synthetic $r8$lambda$qjeTfUE-UAs7eAMQb43Zvq4ccpE(Landroidx/window/embedding/SplitPairRule;Landroid/content/Context;Landroid/view/WindowMetrics;)Z
@@ -707,99 +170,6 @@
 
     .line 5
     return p0
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method static constructor <clinit>()V
@@ -836,11 +206,6 @@
     .line 15
     .line 16
     return-void
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public constructor <init>(Landroidx/window/core/PredicateAdapter;)V
@@ -901,51 +266,6 @@
     .line 29
     .line 30
     return-void
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 .method public static final synthetic access$getApi1Impl$p(Landroidx/window/embedding/EmbeddingAdapter;)Landroidx/window/embedding/EmbeddingAdapter$VendorApiLevel1Impl;
@@ -957,29 +277,6 @@
     .line 2
     .line 3
     return-object p0
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public static final synthetic access$getINVALID_SPLIT_INFO_TOKEN$cp()Landroid/os/Binder;
@@ -991,24 +288,6 @@
     .line 2
     .line 3
     return-object v0
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public static synthetic getEmbeddingConfiguration$annotations()V
@@ -1016,26 +295,6 @@
 
     .line 1
     return-void
-    .line 2
-    .line 3
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method private final getExtensionVersion()I
@@ -1063,16 +322,6 @@
 
     .line 11
     return v0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method private final translate(Landroidx/window/extensions/embedding/SplitInfo;)Landroidx/window/embedding/SplitInfo;
@@ -1302,152 +551,6 @@
     .line 56
     .line 57
     return-object p1
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
-    .line 126
-    .line 127
-    .line 128
-    .line 129
-    .line 130
-    .line 131
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
 .end method
 
 .method private static final translateActivityRule$lambda$16(Landroidx/window/embedding/ActivityRule;Landroid/app/Activity;)Z
@@ -1550,8 +653,6 @@
     :cond_2
     :goto_0
     return v1
-    .line 47
-    .line 48
 .end method
 
 .method private static final translateActivityRule$lambda$18(Landroidx/window/embedding/ActivityRule;Landroid/content/Intent;)Z
@@ -1654,8 +755,6 @@
     :cond_2
     :goto_0
     return v1
-    .line 47
-    .line 48
 .end method
 
 .method private final translateAnimationBackground(Landroidx/window/embedding/EmbeddingAnimationBackground;)Landroidx/window/extensions/embedding/AnimationBackground;
@@ -1734,45 +833,6 @@
     .line 36
     :goto_0
     return-object p1
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 .method private static final translateSplitAttributesCalculator$lambda$1(Landroidx/window/embedding/EmbeddingAdapter;Lbbof;Landroidx/window/extensions/embedding/SplitAttributesCalculatorParams;)Landroidx/window/extensions/embedding/SplitAttributes;
@@ -1823,80 +883,6 @@
 
     .line 24
     return-object p0
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method private final translateSplitPairRule(Landroid/content/Context;Landroidx/window/embedding/SplitPairRule;Ljava/lang/Class;)Landroidx/window/extensions/embedding/SplitPairRule;
@@ -2218,152 +1204,6 @@
     :cond_2
     :goto_0
     return v1
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
-    .line 126
-    .line 127
-    .line 128
-    .line 129
-    .line 130
-    .line 131
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
 .end method
 
 .method private static final translateSplitPairRule$lambda$6(Landroidx/window/embedding/SplitPairRule;Landroid/util/Pair;)Z
@@ -2487,152 +1327,6 @@
     :cond_2
     :goto_0
     return v1
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
-    .line 126
-    .line 127
-    .line 128
-    .line 129
-    .line 130
-    .line 131
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
 .end method
 
 .method private static final translateSplitPairRule$lambda$7(Landroidx/window/embedding/SplitPairRule;Landroid/content/Context;Landroid/view/WindowMetrics;)Z
@@ -2663,90 +1357,6 @@
 
     .line 14
     return p0
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method private static final translateSplitPinRule$lambda$8(Landroidx/window/embedding/SplitPinRule;Landroid/content/Context;Landroid/view/WindowMetrics;)Z
@@ -2777,90 +1387,6 @@
 
     .line 14
     return p0
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method private final translateSplitPlaceholderRule(Landroid/content/Context;Landroidx/window/embedding/SplitPlaceholderRule;Ljava/lang/Class;)Landroidx/window/extensions/embedding/SplitPlaceholderRule;
@@ -3043,14 +1569,6 @@
     .line 89
     .line 90
     return-object p1
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method private static final translateSplitPlaceholderRule$lambda$11(Landroidx/window/embedding/SplitPlaceholderRule;Landroid/app/Activity;)Z
@@ -3153,8 +1671,6 @@
     :cond_2
     :goto_0
     return v1
-    .line 47
-    .line 48
 .end method
 
 .method private static final translateSplitPlaceholderRule$lambda$13(Landroidx/window/embedding/SplitPlaceholderRule;Landroid/content/Intent;)Z
@@ -3257,8 +1773,6 @@
     :cond_2
     :goto_0
     return v1
-    .line 47
-    .line 48
 .end method
 
 .method private static final translateSplitPlaceholderRule$lambda$14(Landroidx/window/embedding/SplitPlaceholderRule;Landroid/content/Context;Landroid/view/WindowMetrics;)Z
@@ -3289,90 +1803,6 @@
 
     .line 14
     return p0
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method private final translateSplitType(Landroidx/window/embedding/SplitAttributes$SplitType;)Landroidx/window/extensions/embedding/SplitAttributes$SplitType;
@@ -3600,103 +2030,6 @@
     .line 109
     .line 110
     throw p1
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
-    .line 126
-    .line 127
-    .line 128
-    .line 129
-    .line 130
-    .line 131
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
-    .line 204
-    .line 205
-    .line 206
-    .line 207
 .end method
 
 
@@ -3710,24 +2043,6 @@
     .line 2
     .line 3
     return-object v0
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final setEmbeddingConfiguration(Landroidx/window/embedding/EmbeddingConfiguration;)V
@@ -3739,29 +2054,6 @@
     .line 2
     .line 3
     return-void
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final translate(Landroidx/window/extensions/embedding/SplitAttributesCalculatorParams;)Landroidx/window/embedding/SplitAttributesCalculatorParams;
@@ -4529,29 +2821,6 @@
     .line 51
     .line 52
     throw v0
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 .method public final translateSplitAttributes(Landroidx/window/embedding/SplitAttributes;)Landroidx/window/extensions/embedding/SplitAttributes;
@@ -4857,70 +3126,6 @@
     .line 142
     .line 143
     throw p1
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
-    .line 204
-    .line 205
-    .line 206
-    .line 207
 .end method
 
 .method public final translateSplitAttributesCalculator(Lbbof;)Landroidx/window/extensions/core/util/function/Function;
@@ -4942,23 +3147,6 @@
     .line 8
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final translateSplitPinRule(Landroid/content/Context;Landroidx/window/embedding/SplitPinRule;)Landroidx/window/extensions/embedding/SplitPinRule;
@@ -5074,151 +3262,6 @@
     .line 57
     .line 58
     return-object p1
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
-    .line 126
-    .line 127
-    .line 128
-    .line 129
-    .line 130
-    .line 131
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
-    .line 146
-    .line 147
-    .line 148
-    .line 149
-    .line 150
-    .line 151
-    .line 152
-    .line 153
-    .line 154
-    .line 155
-    .line 156
-    .line 157
-    .line 158
-    .line 159
-    .line 160
-    .line 161
-    .line 162
-    .line 163
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
 .end method
 
 .method public final translateWindowAttributes$window_release()Landroidx/window/extensions/embedding/WindowAttributes;
@@ -5302,39 +3345,4 @@
     .line 35
     .line 36
     return-object v0
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
 .end method

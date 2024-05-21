@@ -74,14 +74,6 @@
     .line 14
     .line 15
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
 .end method
 
 .method public final bridge synthetic vX(Ljava/lang/Object;)V
@@ -247,5 +239,4 @@
     .line 80
     :cond_3
     return-void
-    .line 81
 .end method

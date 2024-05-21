@@ -1098,30 +1098,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 516
-    .line 517
-    .line 518
-    .line 519
-    .line 520
-    .line 521
-    .line 522
-    .line 523
-    .line 524
-    .line 525
-    .line 526
-    .line 527
-    .line 528
-    .line 529
-    .line 530
-    .line 531
-    .line 532
-    .line 533
-    .line 534
-    .line 535
-    .line 536
-    .line 537
-    .line 538
-    .line 539
-    .line 540
-    .line 541
 .end method

@@ -48,8 +48,6 @@
     .line 17
     .line 18
     return-void
-    .line 19
-    .line 20
 .end method
 
 .method public static a(Lcd;)Lcom/google/android/libraries/youtube/creation/dynamicasset/DynamicCreationAssetCacheViewModel;
@@ -99,11 +97,6 @@
     .line 22
     .line 23
     return-object p0
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 
@@ -129,23 +122,4 @@
     .line 8
     .line 9
     return-object p1
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method

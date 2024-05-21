@@ -125,31 +125,6 @@
         0x3f800000    # 1.0f
         0x3f800000    # 1.0f
     .end array-data
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
 .end method
 
 .method public constructor <init>(Lacls;)V
@@ -210,53 +185,6 @@
     .line 27
     .line 28
     return-void
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 .method private static c([F)Ljava/nio/FloatBuffer;
@@ -375,7 +303,6 @@
 
     .line 21
     throw v0
-    .line 22
 .end method
 
 .method public final declared-synchronized b(IIIII)V
@@ -962,74 +889,4 @@
 
     .line 292
     throw v0
-    .line 293
-    .line 294
-    .line 295
-    .line 296
-    .line 297
-    .line 298
-    .line 299
-    .line 300
-    .line 301
-    .line 302
-    .line 303
-    .line 304
-    .line 305
-    .line 306
-    .line 307
-    .line 308
-    .line 309
-    .line 310
-    .line 311
-    .line 312
-    .line 313
-    .line 314
-    .line 315
-    .line 316
-    .line 317
-    .line 318
-    .line 319
-    .line 320
-    .line 321
-    .line 322
-    .line 323
-    .line 324
-    .line 325
-    .line 326
-    .line 327
-    .line 328
-    .line 329
-    .line 330
-    .line 331
-    .line 332
-    .line 333
-    .line 334
-    .line 335
-    .line 336
-    .line 337
-    .line 338
-    .line 339
-    .line 340
-    .line 341
-    .line 342
-    .line 343
-    .line 344
-    .line 345
-    .line 346
-    .line 347
-    .line 348
-    .line 349
-    .line 350
-    .line 351
-    .line 352
-    .line 353
-    .line 354
-    .line 355
-    .line 356
-    .line 357
-    .line 358
-    .line 359
-    .line 360
-    .line 361
-    .line 362
 .end method

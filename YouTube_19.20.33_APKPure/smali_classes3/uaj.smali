@@ -34,23 +34,6 @@
     .line 10
     .line 11
     return-void
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 
@@ -202,29 +185,6 @@
     .line 61
     .line 62
     return-void
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
 .end method
 
 .method public final cancel(Z)Z
@@ -249,24 +209,6 @@
 
     .line 10
     return p1
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 .method public final onCancel()V
@@ -282,19 +224,4 @@
     .line 4
     .line 5
     return-void
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method

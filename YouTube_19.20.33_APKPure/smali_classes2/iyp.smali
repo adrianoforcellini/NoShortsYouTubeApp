@@ -2428,38 +2428,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 1120
-    .line 1121
-    .line 1122
-    .line 1123
-    .line 1124
-    .line 1125
-    .line 1126
-    .line 1127
-    .line 1128
-    .line 1129
-    .line 1130
-    .line 1131
-    .line 1132
-    .line 1133
-    .line 1134
-    .line 1135
-    .line 1136
-    .line 1137
-    .line 1138
-    .line 1139
-    .line 1140
-    .line 1141
-    .line 1142
-    .line 1143
-    .line 1144
-    .line 1145
-    .line 1146
-    .line 1147
-    .line 1148
-    .line 1149
-    .line 1150
-    .line 1151
-    .line 1152
-    .line 1153
 .end method

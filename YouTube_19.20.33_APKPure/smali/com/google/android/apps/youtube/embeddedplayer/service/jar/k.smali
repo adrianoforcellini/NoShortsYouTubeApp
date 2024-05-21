@@ -86,9 +86,6 @@
 
     .line 18
     return v0
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final b()I
@@ -127,12 +124,6 @@
 
     .line 15
     throw v0
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final c()Landroid/app/ActionBar;
@@ -171,12 +162,6 @@
 
     .line 15
     return-object v0
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final d()Landroid/view/Window;
@@ -220,9 +205,6 @@
     .line 17
     .line 18
     return-object v0
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final e()Z
@@ -261,12 +243,6 @@
 
     .line 15
     return v0
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final f()Z
@@ -305,10 +281,4 @@
 
     .line 15
     return v0
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method

@@ -39,17 +39,6 @@
     .line 14
     .line 15
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method private readObject(Ljava/io/ObjectInputStream;)V
@@ -70,24 +59,6 @@
     .line 7
     .line 8
     throw p1
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -126,12 +97,6 @@
     .line 15
     .line 16
     return-object v1
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public final containsKey(Ljava/lang/Object;)Z
@@ -151,25 +116,6 @@
 
     .line 7
     return p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final equals(Ljava/lang/Object;)Z
@@ -217,13 +163,6 @@
 
     .line 19
     return p1
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final get(Ljava/lang/Object;)Ljava/lang/Object;
@@ -243,25 +182,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final size()I
@@ -281,21 +201,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public final wT()Lalis;
@@ -331,13 +236,6 @@
 
     .line 15
     return-object v0
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public final wU()Z
@@ -348,26 +246,6 @@
 
     .line 2
     return v0
-    .line 3
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public writeReplace()Ljava/lang/Object;
@@ -388,18 +266,4 @@
     .line 7
     .line 8
     return-object v0
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method

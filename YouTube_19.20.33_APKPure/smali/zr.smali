@@ -494,30 +494,6 @@
     .line 241
     .line 242
     return-void
-    .line 243
-    .line 244
-    .line 245
-    .line 246
-    .line 247
-    .line 248
-    .line 249
-    .line 250
-    .line 251
-    .line 252
-    .line 253
-    .line 254
-    .line 255
-    .line 256
-    .line 257
-    .line 258
-    .line 259
-    .line 260
-    .line 261
-    .line 262
-    .line 263
-    .line 264
-    .line 265
-    .line 266
 .end method
 
 .method public static a(J)Ladi;
@@ -549,19 +525,6 @@
     .line 12
     .line 13
     return-object p0
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public static b(Ladi;Landroid/hardware/camera2/params/DynamicRangeProfiles;)Ljava/lang/Long;
@@ -649,13 +612,4 @@
 
     .line 39
     return-object p0
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method

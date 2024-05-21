@@ -52,7 +52,6 @@
     .line 12
     .line 13
     return-void
-    .line 14
 .end method
 
 .method private constructor <init>()V
@@ -80,9 +79,6 @@
     .line 10
     .line 11
     return-void
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 

@@ -448,49 +448,6 @@
     .line 222
     .line 223
     return-void
-    .line 224
-    .line 225
-    .line 226
-    .line 227
-    .line 228
-    .line 229
-    .line 230
-    .line 231
-    .line 232
-    .line 233
-    .line 234
-    .line 235
-    .line 236
-    .line 237
-    .line 238
-    .line 239
-    .line 240
-    .line 241
-    .line 242
-    .line 243
-    .line 244
-    .line 245
-    .line 246
-    .line 247
-    .line 248
-    .line 249
-    .line 250
-    .line 251
-    .line 252
-    .line 253
-    .line 254
-    .line 255
-    .line 256
-    .line 257
-    .line 258
-    .line 259
-    .line 260
-    .line 261
-    .line 262
-    .line 263
-    .line 264
-    .line 265
-    .line 266
 .end method
 
 .method public constructor <init>(Landroid/os/Bundle;)V
@@ -598,50 +555,6 @@
 
     .line 31
     return-object p0
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 
@@ -667,23 +580,6 @@
 
     .line 9
     return-wide v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final b()Landroid/support/v4/media/MediaDescriptionCompat;
@@ -1211,41 +1107,6 @@
     .line 230
     .line 231
     return-object v0
-    .line 232
-    .line 233
-    .line 234
-    .line 235
-    .line 236
-    .line 237
-    .line 238
-    .line 239
-    .line 240
-    .line 241
-    .line 242
-    .line 243
-    .line 244
-    .line 245
-    .line 246
-    .line 247
-    .line 248
-    .line 249
-    .line 250
-    .line 251
-    .line 252
-    .line 253
-    .line 254
-    .line 255
-    .line 256
-    .line 257
-    .line 258
-    .line 259
-    .line 260
-    .line 261
-    .line 262
-    .line 263
-    .line 264
-    .line 265
-    .line 266
 .end method
 
 .method public final d(Ljava/lang/String;)Ljava/lang/CharSequence;
@@ -1265,25 +1126,6 @@
 
     .line 7
     return-object p1
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final describeContents()I
@@ -1294,25 +1136,6 @@
 
     .line 2
     return v0
-    .line 3
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final e(Ljava/lang/String;)Ljava/lang/String;
@@ -1351,17 +1174,6 @@
 
     .line 15
     return-object p1
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final writeToParcel(Landroid/os/Parcel;I)V
@@ -1378,46 +1190,4 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
 .end method

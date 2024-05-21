@@ -505,7 +505,7 @@
         <service android:exported="false" android:foregroundServiceType="dataSync" android:name="com.google.android.libraries.youtube.creation.publish.ClientSideRenderingService"/>
         <service android:exported="false" android:foregroundServiceType="dataSync" android:name="com.google.android.libraries.youtube.creation.trim.SegmentProcessingService"/>
         <meta-data android:name="firebase_analytics_collection_enabled" android:value="false"/>
-        <service android:configChanges="orientation|screenLayout|screenSize" android:exported="false" android:foregroundServiceType="mediaProjection" android:name="com.google.android.libraries.youtube.livecreation.screencast.ScreencastHostService"/>
+        <service android:configChanges="orientation|screenLayout|screenSize" android:exported="false" android:foregroundServiceType="camera|mediaProjection|microphone" android:name="com.google.android.libraries.youtube.livecreation.screencast.ScreencastHostService"/>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:name="com.google.android.libraries.youtube.livecreation.ui.LiveCreationActivity" android:resizeableActivity="false" android:screenOrientation="behind" android:theme="@style/LcAppTheme.NoActionBar" android:windowSoftInputMode="adjustResize"/>
         <receiver android:exported="false" android:name="com.google.android.libraries.youtube.mdx.background.MdxBackgroundPlaybackBroadcastReceiver"/>
         <receiver android:exported="false" android:name="com.google.android.libraries.youtube.mdx.background.MdxBackgroundScanBootReceiver">
@@ -529,7 +529,7 @@
         <receiver android:exported="false" android:name="com.google.android.libraries.youtube.rendering.customtabs.CustomTabsReceiver"/>
         <receiver android:exported="false" android:name="com.google.android.libraries.youtube.share.endpoint.ShareLoggingBroadcastReceiver"/>
         <service android:exported="false" android:name="com.google.apps.tiktok.concurrent.AndroidFuturesService"/>
-        <service android:exported="false" android:foregroundServiceType="" android:name="com.google.apps.tiktok.concurrent.InternalForegroundService"/>
+        <service android:exported="false" android:foregroundServiceType="shortService" android:name="com.google.apps.tiktok.concurrent.InternalForegroundService"/>
         <activity android:exported="false" android:label="@string/title_activity_qr_code_capture" android:name="com.google.cardboard.sdk.QrCodeCaptureActivity" android:theme="@style/Theme.AppCompat.NoActionBar"/>
         <activity android:exported="true" android:label="@string/headset_detection_activity_title" android:name="com.google.cardboard.sdk.HeadsetDetectionActivity">
             <intent-filter>

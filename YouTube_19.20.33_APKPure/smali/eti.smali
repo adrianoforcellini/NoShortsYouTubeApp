@@ -67,8 +67,4 @@
         0x0
         0x437f0000    # 255.0f
     .end array-data
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method

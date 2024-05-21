@@ -95,5 +95,4 @@
 
     .line 47
     return-object p0
-    .line 48
 .end method

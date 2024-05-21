@@ -17,22 +17,6 @@
     .line 3
     .line 4
     return-void
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 
@@ -53,29 +37,6 @@
 
     .line 5
     return-object p1
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 .method public final synthetic apply(Ljava/lang/Object;)Ljava/lang/Object;
@@ -461,25 +422,6 @@
     .line 186
     .line 187
     throw p1
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
-    .line 204
-    .line 205
-    .line 206
 .end method
 
 .method public abstract b(Ltiw;Ltcd;)V
@@ -498,27 +440,4 @@
 
     .line 5
     return-object p1
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method

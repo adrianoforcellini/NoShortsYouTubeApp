@@ -34,6 +34,4 @@
     .line 11
     .line 12
     return-void
-    .line 13
-    .line 14
 .end method

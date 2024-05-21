@@ -209,10 +209,6 @@
     .line 70
     .line 71
     return-void
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method
 
 .method public final synthetic andThen(Ljava/util/function/Consumer;)Ljava/util/function/Consumer;
@@ -248,16 +244,4 @@
 
     .line 14
     return-object p1
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method

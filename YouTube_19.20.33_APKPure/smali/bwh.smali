@@ -27,22 +27,6 @@
     .line 4
     .line 5
     return-void
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 
@@ -167,53 +151,6 @@
     .line 50
     .line 51
     throw p2
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
 .end method
 
 .method public final b(Lbvx;)J
@@ -588,39 +525,6 @@
     .line 173
     .line 174
     throw v1
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
-    .line 204
-    .line 205
-    .line 206
-    .line 207
 .end method
 
 .method public final c()Landroid/net/Uri;
@@ -632,24 +536,6 @@
     .line 2
     .line 3
     return-object v0
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final f()V
@@ -767,28 +653,4 @@
     .line 47
     :goto_1
     throw v2
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
 .end method

@@ -122,7 +122,4 @@
     .line 55
     .line 56
     return-void
-    .line 57
-    .line 58
-    .line 59
 .end method

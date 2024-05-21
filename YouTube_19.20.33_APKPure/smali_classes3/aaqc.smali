@@ -189,18 +189,6 @@
     .line 73
     :goto_1
     throw p1
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
 .end method
 
 .method static b(Ljava/io/OutputStream;Lcom/google/protobuf/MessageLite;)V
@@ -285,24 +273,6 @@
     .line 40
     .line 41
     return-void
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method
 
 
@@ -409,15 +379,4 @@
     .line 47
     .line 48
     return-object p1
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method

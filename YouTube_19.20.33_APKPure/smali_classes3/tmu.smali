@@ -35,11 +35,6 @@
     .line 14
     .line 15
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public constructor <init>(Landroid/content/Context;)V
@@ -74,16 +69,4 @@
     .line 15
     .line 16
     return-void
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method

@@ -427,26 +427,4 @@
         <item quantity="few">%1$d videos</item>
         <item quantity="many">%1$d videos</item>
     </plurals>
-    <plurals name="APKTOOL_DUMMY_b" />
-    <plurals name="APKTOOL_DUMMY_c" />
-    <plurals name="APKTOOL_DUMMY_d" />
-    <plurals name="APKTOOL_DUMMY_e" />
-    <plurals name="APKTOOL_DUMMY_15" />
-    <plurals name="APKTOOL_DUMMY_1f" />
-    <plurals name="APKTOOL_DUMMY_20" />
-    <plurals name="APKTOOL_DUMMY_21" />
-    <plurals name="APKTOOL_DUMMY_26" />
-    <plurals name="APKTOOL_DUMMY_2a" />
-    <plurals name="APKTOOL_DUMMY_2b" />
-    <plurals name="APKTOOL_DUMMY_2c" />
-    <plurals name="APKTOOL_DUMMY_2d" />
-    <plurals name="APKTOOL_DUMMY_2e" />
-    <plurals name="APKTOOL_DUMMY_2f" />
-    <plurals name="APKTOOL_DUMMY_33" />
-    <plurals name="APKTOOL_DUMMY_35" />
-    <plurals name="APKTOOL_DUMMY_36" />
-    <plurals name="APKTOOL_DUMMY_37" />
-    <plurals name="APKTOOL_DUMMY_38" />
-    <plurals name="APKTOOL_DUMMY_4e" />
-    <plurals name="APKTOOL_DUMMY_57" />
 </resources>

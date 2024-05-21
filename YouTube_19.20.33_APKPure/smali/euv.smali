@@ -141,5 +141,4 @@
 
     .line 47
     return-object p1
-    .line 48
 .end method

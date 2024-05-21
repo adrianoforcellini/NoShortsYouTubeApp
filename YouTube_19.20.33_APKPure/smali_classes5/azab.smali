@@ -31,9 +31,6 @@
     .line 10
     .line 11
     return-void
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 
@@ -57,11 +54,6 @@
     .line 8
     .line 9
     return-void
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 .method public final b(Lorg/webrtc/VideoFrame;Lbcql;Landroid/graphics/Matrix;II)V
@@ -479,9 +471,4 @@
     .line 199
     .line 200
     return-void
-    .line 201
-    .line 202
-    .line 203
-    .line 204
-    .line 205
 .end method

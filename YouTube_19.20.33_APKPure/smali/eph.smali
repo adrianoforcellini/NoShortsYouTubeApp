@@ -70,16 +70,6 @@
 
     .line 11
     return v0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final b()Ljava/lang/Object;
@@ -122,8 +112,4 @@
 
     .line 17
     return-object v0
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method

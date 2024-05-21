@@ -264,10 +264,4 @@
 
     .line 53
     throw v1
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method

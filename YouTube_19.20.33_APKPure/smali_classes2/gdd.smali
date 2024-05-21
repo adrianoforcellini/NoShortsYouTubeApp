@@ -740,14 +740,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 314
-    .line 315
-    .line 316
-    .line 317
-    .line 318
-    .line 319
-    .line 320
-    .line 321
-    .line 322
-    .line 323
 .end method

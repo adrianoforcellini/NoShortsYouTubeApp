@@ -60,7 +60,4 @@
         0x7f0408cd
         0x7f0408ce
     .end array-data
-    .line 20
-    .line 21
-    .line 22
 .end method

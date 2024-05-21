@@ -56,7 +56,6 @@
     .line 12
     .line 13
     return-void
-    .line 14
 .end method
 
 .method private constructor <init>()V
@@ -81,10 +80,6 @@
     .line 9
     .line 10
     return-void
-    .line 11
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 .method static synthetic access$000()Lcom/google/vr/sdk/proto/Preferences$UserPrefs;
@@ -96,17 +91,6 @@
     .line 2
     .line 3
     return-object v0
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 .method public static newBuilder()Lcom/google/vr/sdk/proto/Preferences$UserPrefs$Builder;
@@ -130,11 +114,6 @@
     .line 8
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 
@@ -401,20 +380,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
 .end method

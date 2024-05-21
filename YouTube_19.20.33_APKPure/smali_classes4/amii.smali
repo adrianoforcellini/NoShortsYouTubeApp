@@ -52,10 +52,6 @@
     .line 17
     .line 18
     return-void
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public static final a()Ljava/lang/String;
@@ -198,8 +194,4 @@
 
     .line 68
     return-object v0
-    .line 69
-    .line 70
-    .line 71
-    .line 72
 .end method

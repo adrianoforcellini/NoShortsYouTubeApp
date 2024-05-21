@@ -163,12 +163,4 @@
     .line 63
     :catch_4
     return-void
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
 .end method

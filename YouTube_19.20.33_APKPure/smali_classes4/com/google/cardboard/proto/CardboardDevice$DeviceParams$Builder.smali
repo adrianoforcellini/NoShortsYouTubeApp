@@ -54,21 +54,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public addAllLeftEyeFieldOfViewAngles(Ljava/lang/Iterable;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -94,21 +79,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public addDistortionCoefficients(F)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -134,21 +104,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public addLeftEyeFieldOfViewAngles(F)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -174,21 +129,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public clearDistortionCoefficients()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -214,17 +154,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearInterLensDistance()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -250,17 +179,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearLeftEyeFieldOfViewAngles()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -286,17 +204,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearModel()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -322,17 +229,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearPrimaryButton()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -358,17 +254,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearScreenToLensDistance()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -394,17 +279,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearTrayToLensDistance()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -430,17 +304,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearVendor()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -466,17 +329,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public clearVerticalAlignment()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -502,17 +354,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getDistortionCoefficients(I)F
@@ -536,23 +377,6 @@
 
     .line 9
     return p1
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public getDistortionCoefficientsCount()I
@@ -576,19 +400,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getDistortionCoefficientsList()Ljava/util/List;
@@ -620,15 +431,6 @@
 
     .line 13
     return-object v0
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getInterLensDistance()F
@@ -652,19 +454,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getLeftEyeFieldOfViewAngles(I)F
@@ -688,23 +477,6 @@
 
     .line 9
     return p1
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public getLeftEyeFieldOfViewAnglesCount()I
@@ -728,19 +500,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getLeftEyeFieldOfViewAnglesList()Ljava/util/List;
@@ -772,15 +531,6 @@
 
     .line 13
     return-object v0
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getModel()Ljava/lang/String;
@@ -804,19 +554,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getModelBytes()Lanbk;
@@ -840,19 +577,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getPrimaryButton()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$ButtonType;
@@ -876,19 +600,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getScreenToLensDistance()F
@@ -912,19 +623,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getTrayToLensDistance()F
@@ -948,19 +646,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getVendor()Ljava/lang/String;
@@ -984,19 +669,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getVendorBytes()Lanbk;
@@ -1020,19 +692,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public getVerticalAlignment()Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$VerticalAlignmentType;
@@ -1056,19 +715,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasInterLensDistance()Z
@@ -1092,19 +738,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasModel()Z
@@ -1128,19 +761,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasPrimaryButton()Z
@@ -1164,19 +784,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasScreenToLensDistance()Z
@@ -1200,19 +807,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasTrayToLensDistance()Z
@@ -1236,19 +830,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasVendor()Z
@@ -1272,19 +853,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public hasVerticalAlignment()Z
@@ -1308,19 +876,6 @@
 
     .line 9
     return v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public setDistortionCoefficients(IF)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1346,47 +901,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
 .end method
 
 .method public setInterLensDistance(F)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1412,21 +926,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setLeftEyeFieldOfViewAngles(IF)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1452,47 +951,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
 .end method
 
 .method public setModel(Ljava/lang/String;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1518,21 +976,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setModelBytes(Lanbk;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1558,21 +1001,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setPrimaryButton(Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$ButtonType;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1598,21 +1026,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setScreenToLensDistance(F)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1638,21 +1051,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setTrayToLensDistance(F)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1678,21 +1076,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setVendor(Ljava/lang/String;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1718,21 +1101,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setVendorBytes(Lanbk;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1758,21 +1126,6 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public setVerticalAlignment(Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$VerticalAlignmentType;)Lcom/google/cardboard/proto/CardboardDevice$DeviceParams$Builder;
@@ -1798,19 +1151,4 @@
     .line 10
     .line 11
     return-object p0
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method

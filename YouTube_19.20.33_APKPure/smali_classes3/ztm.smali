@@ -1463,17 +1463,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 638
-    .line 639
-    .line 640
-    .line 641
-    .line 642
-    .line 643
-    .line 644
-    .line 645
-    .line 646
-    .line 647
-    .line 648
-    .line 649
-    .line 650
 .end method

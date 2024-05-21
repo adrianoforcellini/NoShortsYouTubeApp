@@ -19,25 +19,6 @@
 
     .line 1
     return-void
-    .line 2
-    .line 3
-    .line 4
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method private constructor <init>(J)V
@@ -212,11 +193,6 @@
     .line 15
     :cond_0
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public alignContent()Lcom/google/android/libraries/elements/interfaces/AlignItems;
@@ -236,19 +212,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public alignItems()Lcom/google/android/libraries/elements/interfaces/AlignItems;
@@ -268,19 +231,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public alignSelf()Lcom/google/android/libraries/elements/interfaces/AlignItems;
@@ -300,19 +250,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public aspectRatio()F
@@ -332,19 +269,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method protected finalize()V
@@ -362,19 +286,6 @@
     .line 6
     .line 7
     return-void
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public flexBasis()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -394,19 +305,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public flexDirection()Lcom/google/android/libraries/elements/interfaces/FlexDirection;
@@ -426,19 +324,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public flexGrow()F
@@ -458,19 +343,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public flexShrink()F
@@ -490,19 +362,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public flexWrap()Lcom/google/android/libraries/elements/interfaces/FlexWrap;
@@ -522,19 +381,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public hasAspectRatio()Z
@@ -554,19 +400,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public hasFlexGrow()Z
@@ -586,19 +419,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public hasFlexShrink()Z
@@ -618,19 +438,6 @@
 
     .line 7
     return v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public height()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -650,19 +457,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public justifyContent()Lcom/google/android/libraries/elements/interfaces/JustifyContent;
@@ -682,19 +476,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public margin()Lcom/google/android/libraries/elements/interfaces/DimensionEdgesProxy;
@@ -714,19 +495,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public maxHeight()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -746,19 +514,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public maxWidth()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -778,19 +533,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public minHeight()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -810,19 +552,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public minWidth()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -842,19 +571,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public padding()Lcom/google/android/libraries/elements/interfaces/DimensionEdgesProxy;
@@ -874,19 +590,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public position()Lcom/google/android/libraries/elements/interfaces/DimensionEdgesProxy;
@@ -906,19 +609,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public positionType()Lcom/google/android/libraries/elements/interfaces/Position;
@@ -938,19 +628,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public semanticContentAttribute()Lcom/google/android/libraries/elements/interfaces/SemanticContentAttribute;
@@ -970,19 +647,6 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method
 
 .method public width()Lcom/google/android/libraries/elements/interfaces/DimensionProxy;
@@ -1002,17 +666,4 @@
 
     .line 7
     return-object v0
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
 .end method

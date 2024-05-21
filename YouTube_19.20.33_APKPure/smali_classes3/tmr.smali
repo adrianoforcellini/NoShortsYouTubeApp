@@ -59,13 +59,6 @@
     .line 20
     .line 21
     return-void
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method
 
 
@@ -255,10 +248,4 @@
     :cond_3
     :goto_1
     return-void
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
 .end method

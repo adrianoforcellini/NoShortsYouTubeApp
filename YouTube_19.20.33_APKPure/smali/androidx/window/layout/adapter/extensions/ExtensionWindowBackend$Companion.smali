@@ -121,7 +121,4 @@
     .line 45
     :goto_0
     return-object v0
-    .line 46
-    .line 47
-    .line 48
 .end method

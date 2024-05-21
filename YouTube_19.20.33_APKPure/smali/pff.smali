@@ -21,21 +21,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public static asInterface(Landroid/os/IBinder;)Lpfg;
@@ -91,9 +76,6 @@
     .line 22
     .line 23
     return-object v0
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -3223,60 +3205,4 @@
         :pswitch_0
         :pswitch_1
     .end packed-switch
-    .line 1466
-    .line 1467
-    .line 1468
-    .line 1469
-    .line 1470
-    .line 1471
-    .line 1472
-    .line 1473
-    .line 1474
-    .line 1475
-    .line 1476
-    .line 1477
-    .line 1478
-    .line 1479
-    .line 1480
-    .line 1481
-    .line 1482
-    .line 1483
-    .line 1484
-    .line 1485
-    .line 1486
-    .line 1487
-    .line 1488
-    .line 1489
-    .line 1490
-    .line 1491
-    .line 1492
-    .line 1493
-    .line 1494
-    .line 1495
-    .line 1496
-    .line 1497
-    .line 1498
-    .line 1499
-    .line 1500
-    .line 1501
-    .line 1502
-    .line 1503
-    .line 1504
-    .line 1505
-    .line 1506
-    .line 1507
-    .line 1508
-    .line 1509
-    .line 1510
-    .line 1511
-    .line 1512
-    .line 1513
-    .line 1514
-    .line 1515
-    .line 1516
-    .line 1517
-    .line 1518
-    .line 1519
-    .line 1520
-    .line 1521
 .end method

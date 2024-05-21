@@ -34,9 +34,6 @@
     .line 10
     .line 11
     return-void
-    .line 12
-    .line 13
-    .line 14
 .end method
 
 
@@ -154,10 +151,4 @@
     .line 52
     .line 53
     throw v0
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
 .end method

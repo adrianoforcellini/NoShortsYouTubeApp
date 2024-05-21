@@ -35,15 +35,4 @@
     <bool name="sparkles_text_on_home_use_landscape_layout">false</bool>
     <bool name="sparkles_text_on_search_use_landscape_layout">false</bool>
     <bool name="workmanager_test_configuration">false</bool>
-    <bool name="APKTOOL_DUMMY_1" />
-    <bool name="APKTOOL_DUMMY_2" />
-    <bool name="APKTOOL_DUMMY_5" />
-    <bool name="APKTOOL_DUMMY_b" />
-    <bool name="APKTOOL_DUMMY_20" />
-    <bool name="APKTOOL_DUMMY_21" />
-    <bool name="APKTOOL_DUMMY_24" />
-    <bool name="APKTOOL_DUMMY_27" />
-    <bool name="APKTOOL_DUMMY_28" />
-    <bool name="APKTOOL_DUMMY_2b" />
-    <bool name="APKTOOL_DUMMY_2c" />
 </resources>

@@ -72,10 +72,6 @@
     .line 20
     .line 21
     return-void
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method
 
 .method private constructor <init>()V
@@ -108,17 +104,6 @@
     .line 13
     .line 14
     return-void
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method
 
 
@@ -429,18 +414,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
 .end method

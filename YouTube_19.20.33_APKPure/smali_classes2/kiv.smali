@@ -66,8 +66,4 @@
         0x7f040654
         0x7f040768
     .end array-data
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method

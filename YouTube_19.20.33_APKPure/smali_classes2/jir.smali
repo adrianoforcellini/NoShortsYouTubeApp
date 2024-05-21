@@ -25,23 +25,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
 .end method
 
 
@@ -603,37 +586,4 @@
         :pswitch_1
         :pswitch_0
     .end packed-switch
-    .line 256
-    .line 257
-    .line 258
-    .line 259
-    .line 260
-    .line 261
-    .line 262
-    .line 263
-    .line 264
-    .line 265
-    .line 266
-    .line 267
-    .line 268
-    .line 269
-    .line 270
-    .line 271
-    .line 272
-    .line 273
-    .line 274
-    .line 275
-    .line 276
-    .line 277
-    .line 278
-    .line 279
-    .line 280
-    .line 281
-    .line 282
-    .line 283
-    .line 284
-    .line 285
-    .line 286
-    .line 287
-    .line 288
 .end method

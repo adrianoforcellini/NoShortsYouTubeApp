@@ -62,9 +62,6 @@
     .line 22
     .line 23
     return-void
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -440,29 +437,4 @@
     .line 174
     .line 175
     throw p1
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
 .end method

@@ -91,8 +91,4 @@
     .line 17
     .line 18
     goto :goto_0
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method

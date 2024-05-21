@@ -186,9 +186,4 @@
 
     .line 67
     return-object v0
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
 .end method

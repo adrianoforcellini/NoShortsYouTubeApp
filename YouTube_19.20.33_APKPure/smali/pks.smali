@@ -644,7 +644,4 @@
     .line 262
     .line 263
     throw v1
-    .line 264
-    .line 265
-    .line 266
 .end method

@@ -74,27 +74,6 @@
     .line 3
     .line 4
     return-void
-    .line 5
-    .line 6
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method
 
 .method private final aV(Ljava/lang/CharSequence;)V
@@ -128,15 +107,6 @@
     .line 14
     :cond_0
     return-void
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
 .end method
 
 
@@ -468,167 +438,6 @@
 
     .line 163
     return p1
-    .line 164
-    .line 165
-    .line 166
-    .line 167
-    .line 168
-    .line 169
-    .line 170
-    .line 171
-    .line 172
-    .line 173
-    .line 174
-    .line 175
-    .line 176
-    .line 177
-    .line 178
-    .line 179
-    .line 180
-    .line 181
-    .line 182
-    .line 183
-    .line 184
-    .line 185
-    .line 186
-    .line 187
-    .line 188
-    .line 189
-    .line 190
-    .line 191
-    .line 192
-    .line 193
-    .line 194
-    .line 195
-    .line 196
-    .line 197
-    .line 198
-    .line 199
-    .line 200
-    .line 201
-    .line 202
-    .line 203
-    .line 204
-    .line 205
-    .line 206
-    .line 207
-    .line 208
-    .line 209
-    .line 210
-    .line 211
-    .line 212
-    .line 213
-    .line 214
-    .line 215
-    .line 216
-    .line 217
-    .line 218
-    .line 219
-    .line 220
-    .line 221
-    .line 222
-    .line 223
-    .line 224
-    .line 225
-    .line 226
-    .line 227
-    .line 228
-    .line 229
-    .line 230
-    .line 231
-    .line 232
-    .line 233
-    .line 234
-    .line 235
-    .line 236
-    .line 237
-    .line 238
-    .line 239
-    .line 240
-    .line 241
-    .line 242
-    .line 243
-    .line 244
-    .line 245
-    .line 246
-    .line 247
-    .line 248
-    .line 249
-    .line 250
-    .line 251
-    .line 252
-    .line 253
-    .line 254
-    .line 255
-    .line 256
-    .line 257
-    .line 258
-    .line 259
-    .line 260
-    .line 261
-    .line 262
-    .line 263
-    .line 264
-    .line 265
-    .line 266
-    .line 267
-    .line 268
-    .line 269
-    .line 270
-    .line 271
-    .line 272
-    .line 273
-    .line 274
-    .line 275
-    .line 276
-    .line 277
-    .line 278
-    .line 279
-    .line 280
-    .line 281
-    .line 282
-    .line 283
-    .line 284
-    .line 285
-    .line 286
-    .line 287
-    .line 288
-    .line 289
-    .line 290
-    .line 291
-    .line 292
-    .line 293
-    .line 294
-    .line 295
-    .line 296
-    .line 297
-    .line 298
-    .line 299
-    .line 300
-    .line 301
-    .line 302
-    .line 303
-    .line 304
-    .line 305
-    .line 306
-    .line 307
-    .line 308
-    .line 309
-    .line 310
-    .line 311
-    .line 312
-    .line 313
-    .line 314
-    .line 315
-    .line 316
-    .line 317
-    .line 318
-    .line 319
-    .line 320
-    .line 321
-    .line 322
-    .line 323
-    .line 324
 .end method
 
 .method public final aP()V
@@ -1229,32 +1038,6 @@
     .line 297
     :cond_d
     return-void
-    .line 298
-    .line 299
-    .line 300
-    .line 301
-    .line 302
-    .line 303
-    .line 304
-    .line 305
-    .line 306
-    .line 307
-    .line 308
-    .line 309
-    .line 310
-    .line 311
-    .line 312
-    .line 313
-    .line 314
-    .line 315
-    .line 316
-    .line 317
-    .line 318
-    .line 319
-    .line 320
-    .line 321
-    .line 322
-    .line 323
 .end method
 
 .method public final aR()V
@@ -3389,139 +3172,6 @@
     :cond_3a
     :goto_14
     return-void
-    .line 1021
-    .line 1022
-    .line 1023
-    .line 1024
-    .line 1025
-    .line 1026
-    .line 1027
-    .line 1028
-    .line 1029
-    .line 1030
-    .line 1031
-    .line 1032
-    .line 1033
-    .line 1034
-    .line 1035
-    .line 1036
-    .line 1037
-    .line 1038
-    .line 1039
-    .line 1040
-    .line 1041
-    .line 1042
-    .line 1043
-    .line 1044
-    .line 1045
-    .line 1046
-    .line 1047
-    .line 1048
-    .line 1049
-    .line 1050
-    .line 1051
-    .line 1052
-    .line 1053
-    .line 1054
-    .line 1055
-    .line 1056
-    .line 1057
-    .line 1058
-    .line 1059
-    .line 1060
-    .line 1061
-    .line 1062
-    .line 1063
-    .line 1064
-    .line 1065
-    .line 1066
-    .line 1067
-    .line 1068
-    .line 1069
-    .line 1070
-    .line 1071
-    .line 1072
-    .line 1073
-    .line 1074
-    .line 1075
-    .line 1076
-    .line 1077
-    .line 1078
-    .line 1079
-    .line 1080
-    .line 1081
-    .line 1082
-    .line 1083
-    .line 1084
-    .line 1085
-    .line 1086
-    .line 1087
-    .line 1088
-    .line 1089
-    .line 1090
-    .line 1091
-    .line 1092
-    .line 1093
-    .line 1094
-    .line 1095
-    .line 1096
-    .line 1097
-    .line 1098
-    .line 1099
-    .line 1100
-    .line 1101
-    .line 1102
-    .line 1103
-    .line 1104
-    .line 1105
-    .line 1106
-    .line 1107
-    .line 1108
-    .line 1109
-    .line 1110
-    .line 1111
-    .line 1112
-    .line 1113
-    .line 1114
-    .line 1115
-    .line 1116
-    .line 1117
-    .line 1118
-    .line 1119
-    .line 1120
-    .line 1121
-    .line 1122
-    .line 1123
-    .line 1124
-    .line 1125
-    .line 1126
-    .line 1127
-    .line 1128
-    .line 1129
-    .line 1130
-    .line 1131
-    .line 1132
-    .line 1133
-    .line 1134
-    .line 1135
-    .line 1136
-    .line 1137
-    .line 1138
-    .line 1139
-    .line 1140
-    .line 1141
-    .line 1142
-    .line 1143
-    .line 1144
-    .line 1145
-    .line 1146
-    .line 1147
-    .line 1148
-    .line 1149
-    .line 1150
-    .line 1151
-    .line 1152
-    .line 1153
 .end method
 
 .method public final aS()V
@@ -3642,40 +3292,6 @@
     .line 54
     :goto_0
     throw v0
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
 .end method
 
 .method public final ad()V
@@ -3722,10 +3338,6 @@
     .line 20
     .line 21
     return-void
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method
 
 .method public final ai(Landroid/view/View;Landroid/os/Bundle;)V
@@ -3766,62 +3378,6 @@
     .line 17
     .line 18
     return-void
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
 .end method
 
 .method public final b(Landroidx/preference/Preference;)Z
@@ -3937,31 +3493,6 @@
 
     .line 56
     return p1
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
 .end method
 
 .method public final d()Lbagp;
@@ -3990,19 +3521,6 @@
 
     .line 12
     return-object v0
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method
 
 .method public final f(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/support/v7/widget/RecyclerView;
@@ -4026,142 +3544,6 @@
     .line 8
     .line 9
     return-object p1
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
-    .line 82
-    .line 83
-    .line 84
-    .line 85
-    .line 86
-    .line 87
-    .line 88
-    .line 89
-    .line 90
-    .line 91
-    .line 92
-    .line 93
-    .line 94
-    .line 95
-    .line 96
-    .line 97
-    .line 98
-    .line 99
-    .line 100
-    .line 101
-    .line 102
-    .line 103
-    .line 104
-    .line 105
-    .line 106
-    .line 107
-    .line 108
-    .line 109
-    .line 110
-    .line 111
-    .line 112
-    .line 113
-    .line 114
-    .line 115
-    .line 116
-    .line 117
-    .line 118
-    .line 119
-    .line 120
-    .line 121
-    .line 122
-    .line 123
-    .line 124
-    .line 125
-    .line 126
-    .line 127
-    .line 128
-    .line 129
-    .line 130
-    .line 131
-    .line 132
-    .line 133
-    .line 134
-    .line 135
-    .line 136
-    .line 137
-    .line 138
-    .line 139
-    .line 140
-    .line 141
-    .line 142
-    .line 143
-    .line 144
-    .line 145
 .end method
 
 .method public final onSharedPreferenceChanged(Landroid/content/SharedPreferences;Ljava/lang/String;)V
@@ -4195,66 +3577,6 @@
     .line 14
     :cond_0
     return-void
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
-    .line 29
-    .line 30
-    .line 31
-    .line 32
-    .line 33
-    .line 34
-    .line 35
-    .line 36
-    .line 37
-    .line 38
-    .line 39
-    .line 40
-    .line 41
-    .line 42
-    .line 43
-    .line 44
-    .line 45
-    .line 46
-    .line 47
-    .line 48
-    .line 49
-    .line 50
-    .line 51
-    .line 52
-    .line 53
-    .line 54
-    .line 55
-    .line 56
-    .line 57
-    .line 58
-    .line 59
-    .line 60
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
 .end method
 
 .method public final ps()V
@@ -4692,122 +4014,6 @@
     .line 206
     .line 207
     return-void
-    .line 208
-    .line 209
-    .line 210
-    .line 211
-    .line 212
-    .line 213
-    .line 214
-    .line 215
-    .line 216
-    .line 217
-    .line 218
-    .line 219
-    .line 220
-    .line 221
-    .line 222
-    .line 223
-    .line 224
-    .line 225
-    .line 226
-    .line 227
-    .line 228
-    .line 229
-    .line 230
-    .line 231
-    .line 232
-    .line 233
-    .line 234
-    .line 235
-    .line 236
-    .line 237
-    .line 238
-    .line 239
-    .line 240
-    .line 241
-    .line 242
-    .line 243
-    .line 244
-    .line 245
-    .line 246
-    .line 247
-    .line 248
-    .line 249
-    .line 250
-    .line 251
-    .line 252
-    .line 253
-    .line 254
-    .line 255
-    .line 256
-    .line 257
-    .line 258
-    .line 259
-    .line 260
-    .line 261
-    .line 262
-    .line 263
-    .line 264
-    .line 265
-    .line 266
-    .line 267
-    .line 268
-    .line 269
-    .line 270
-    .line 271
-    .line 272
-    .line 273
-    .line 274
-    .line 275
-    .line 276
-    .line 277
-    .line 278
-    .line 279
-    .line 280
-    .line 281
-    .line 282
-    .line 283
-    .line 284
-    .line 285
-    .line 286
-    .line 287
-    .line 288
-    .line 289
-    .line 290
-    .line 291
-    .line 292
-    .line 293
-    .line 294
-    .line 295
-    .line 296
-    .line 297
-    .line 298
-    .line 299
-    .line 300
-    .line 301
-    .line 302
-    .line 303
-    .line 304
-    .line 305
-    .line 306
-    .line 307
-    .line 308
-    .line 309
-    .line 310
-    .line 311
-    .line 312
-    .line 313
-    .line 314
-    .line 315
-    .line 316
-    .line 317
-    .line 318
-    .line 319
-    .line 320
-    .line 321
-    .line 322
-    .line 323
 .end method
 
 .method public final s(Landroidx/preference/Preference;)V
@@ -4931,25 +4137,4 @@
     .line 59
     .line 60
     return-void
-    .line 61
-    .line 62
-    .line 63
-    .line 64
-    .line 65
-    .line 66
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
-    .line 76
-    .line 77
-    .line 78
-    .line 79
-    .line 80
-    .line 81
 .end method

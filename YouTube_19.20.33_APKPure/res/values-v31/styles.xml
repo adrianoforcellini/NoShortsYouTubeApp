@@ -97,9 +97,11 @@
         <item name="android:buttonBarButtonStyle">@style/SudDeviceDefaultButtonBarButtonStyle.Light</item>
     </style>
     <style name="SudThemeGlif" parent="@style/SudBaseThemeGlif">
+        <item name="android:windowSplashScreenBackground">?android:colorBackground</item>
         <item name="sucSystemNavBarBackgroundColor">?android:navigationBarColor</item>
     </style>
     <style name="SudThemeGlif.Light" parent="@style/SudBaseThemeGlif.Light">
+        <item name="android:windowSplashScreenBackground">?android:colorBackground</item>
         <item name="sucSystemNavBarBackgroundColor">?android:navigationBarColor</item>
     </style>
     <style name="SudThemeGlifV3" parent="@style/SudBaseThemeGlifV3">
@@ -436,6 +438,7 @@
     </style>
     <style name="Widget.GoogleMaterial3.AppWidget.Background" parent="@style/Base.Widget.GoogleMaterial3.AppWidget.Background">
         <item name="android:background">@drawable/google_appwidget_background</item>
+        <item name="android:clipToOutline">true</item>
     </style>
     <style name="SudDeviceDefaultButtonBarButtonStyle" parent="@android:style/Widget.DeviceDefault.Button.Borderless.Colored">
         <item name="android:textAppearance">@style/SudTextAppearanceDeviceDefaultMedium</item>

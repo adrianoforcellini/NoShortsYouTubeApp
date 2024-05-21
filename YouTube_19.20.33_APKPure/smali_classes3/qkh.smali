@@ -61,7 +61,6 @@
         -0x6
         -0x8
     .end array-data
-    .line 20
 .end method
 
 .method static a(I)I
@@ -107,15 +106,4 @@
     .line 17
     :cond_0
     return v2
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method

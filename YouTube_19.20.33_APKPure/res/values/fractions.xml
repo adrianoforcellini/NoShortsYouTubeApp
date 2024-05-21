@@ -32,6 +32,4 @@
     <fraction name="thumbnail_aspect_ratio_16_9">177.7771%</fraction>
     <fraction name="topic_channel_banner_aspect_ratio">331.99768%</fraction>
     <fraction name="unlimited_header_aspect_ratio">83.00001%</fraction>
-    <fraction name="APKTOOL_DUMMY_9" />
-    <fraction name="APKTOOL_DUMMY_b" />
 </resources>

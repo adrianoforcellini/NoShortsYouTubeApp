@@ -51,13 +51,6 @@
     .line 14
     .line 15
     return-void
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
 .end method
 
 .method public constructor <init>(Lalle;)V
@@ -107,7 +100,4 @@
     .line 22
     .line 23
     return-void
-    .line 24
-    .line 25
-    .line 26
 .end method

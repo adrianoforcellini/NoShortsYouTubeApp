@@ -66,14 +66,6 @@
     .line 18
     :goto_0
     return-object p1
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 .method public final ratio(F)Landroidx/window/embedding/SplitAttributes$SplitType;
@@ -208,13 +200,4 @@
     .line 65
     .line 66
     return-object v0
-    .line 67
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method

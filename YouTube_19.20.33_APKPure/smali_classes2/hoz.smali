@@ -80,9 +80,6 @@
 
     .line 20
     return-object p1
-    .line 21
-    .line 22
-    .line 23
 .end method
 
 .method public final b()Lcom/google/android/apps/youtube/app/common/ui/bottomui/HatsHorizontalSurvey;
@@ -124,11 +121,4 @@
     .line 17
     .line 18
     return-object v0
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
 .end method

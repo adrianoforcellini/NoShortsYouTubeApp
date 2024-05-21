@@ -88,6 +88,4 @@
     .line 18
     :cond_0
     return-void
-    .line 19
-    .line 20
 .end method

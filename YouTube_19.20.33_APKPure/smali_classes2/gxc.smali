@@ -58,5 +58,4 @@
     .line 23
     .line 24
     return-void
-    .line 25
 .end method

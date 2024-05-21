@@ -108,18 +108,6 @@
     .line 13
     .line 14
     return-object v0
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -271,12 +259,4 @@
     .line 67
     :cond_3
     throw v1
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method

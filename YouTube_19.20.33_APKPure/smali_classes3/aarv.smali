@@ -113,9 +113,4 @@
     .line 23
     :cond_0
     return-void
-    .line 24
-    .line 25
-    .line 26
-    .line 27
-    .line 28
 .end method

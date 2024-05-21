@@ -171,12 +171,4 @@
     .line 66
     .line 67
     throw v0
-    .line 68
-    .line 69
-    .line 70
-    .line 71
-    .line 72
-    .line 73
-    .line 74
-    .line 75
 .end method

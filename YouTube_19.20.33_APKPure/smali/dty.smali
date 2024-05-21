@@ -25,26 +25,6 @@
     .line 5
     .line 6
     return-void
-    .line 7
-    .line 8
-    .line 9
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
-    .line 22
-    .line 23
-    .line 24
-    .line 25
-    .line 26
 .end method
 
 
@@ -70,18 +50,6 @@
 
     .line 9
     return-object v0
-    .line 10
-    .line 11
-    .line 12
-    .line 13
-    .line 14
-    .line 15
-    .line 16
-    .line 17
-    .line 18
-    .line 19
-    .line 20
-    .line 21
 .end method
 
 .method public final onPostMessage(Landroid/webkit/WebView;Ljava/lang/reflect/InvocationHandler;Landroid/net/Uri;ZLjava/lang/reflect/InvocationHandler;)V
@@ -803,84 +771,4 @@
     :cond_8
     :goto_2
     return-void
-    .line 347
-    .line 348
-    .line 349
-    .line 350
-    .line 351
-    .line 352
-    .line 353
-    .line 354
-    .line 355
-    .line 356
-    .line 357
-    .line 358
-    .line 359
-    .line 360
-    .line 361
-    .line 362
-    .line 363
-    .line 364
-    .line 365
-    .line 366
-    .line 367
-    .line 368
-    .line 369
-    .line 370
-    .line 371
-    .line 372
-    .line 373
-    .line 374
-    .line 375
-    .line 376
-    .line 377
-    .line 378
-    .line 379
-    .line 380
-    .line 381
-    .line 382
-    .line 383
-    .line 384
-    .line 385
-    .line 386
-    .line 387
-    .line 388
-    .line 389
-    .line 390
-    .line 391
-    .line 392
-    .line 393
-    .line 394
-    .line 395
-    .line 396
-    .line 397
-    .line 398
-    .line 399
-    .line 400
-    .line 401
-    .line 402
-    .line 403
-    .line 404
-    .line 405
-    .line 406
-    .line 407
-    .line 408
-    .line 409
-    .line 410
-    .line 411
-    .line 412
-    .line 413
-    .line 414
-    .line 415
-    .line 416
-    .line 417
-    .line 418
-    .line 419
-    .line 420
-    .line 421
-    .line 422
-    .line 423
-    .line 424
-    .line 425
-    .line 426
 .end method
